@@ -1,2 +1,2 @@
 # Tutorial
-Tutorial Belajar Bahasa Pemroraman
+Tutorial Belajar Bahasa Pemrograman
